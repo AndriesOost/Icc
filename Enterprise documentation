@@ -1,0 +1,19 @@
+Andries Electronics is a company that specializes in the production and distribution of electronic components and systems.
+
+Currently, Andries Electronics is using a combination of on-premises and cloud-based solutions for their IT infrastructure. 
+They have local storage and file servers for managing their data, and they use a cloud-based backup and disaster recovery solution to protect their data. 
+They also have web and application servers that are hosted on-premises, and they use a cloud-based database solution for managing their customer and product data.
+
+In terms of recommendations, Andries Electronics should consider using a mix of cloud and non-cloud solutions for their infrastructure.
+For their local storage and file servers, a non-cloud solution may be more appropriate, as this will provide them with faster access to their data and more control over their environment. 
+For their backup and disaster recovery, they could continue using a cloud-based solution, as this will provide them with offsite storage and protection in case of a local failure.
+
+For their web and application servers, a cloud-based solution such as AWS or Azure may be a good option. 
+This would allow them to easily scale their infrastructure to meet changing business needs, and would provide them with access to a wide range of tools and services to support their operations. 
+In terms of service level and deployment type, they could use a managed service, such as AWS Elastic Beanstalk or Azure App Service, to simplify the process of deploying and managing their web and application servers. They could also choose a deployment type that is appropriate for their workload, such as on-premises, virtual private cloud, or hybrid cloud.
+
+For their database servers, a cloud-based solution such as AWS RDS or Azure SQL Database may be appropriate. 
+This would allow them to easily manage and maintain their databases, and would provide them with built-in tools for backup and disaster recovery.
+
+The justification for these recommendations is that they would provide Andries Electronics with a flexible and scalable infrastructure that is able to support their current and future business needs. 
+The use of cloud-based solutions would also allow them to reduce their IT costs and complexity, and would provide them with access to a wide range of services and tools to support their operations.
